@@ -20,6 +20,5 @@ Nico Schlömer (2022). matlab2tikz/matlab2tikz (https://github.com/matlab2tikz/m
 Other References
 
 Browning, A. P., Ansari, N., Drovandi, C., Johnston, A., Simpson, M. J., and Jenner, A. L. (2021).
-Identifying cell-to-cell variability in internalisation using 
-ow cytometry. bioRxiv.
+Identifying cell-to-cell variability in internalisation using flow cytometry. bioRxiv.
 
