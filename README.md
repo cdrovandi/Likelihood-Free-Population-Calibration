@@ -10,6 +10,8 @@ Each folder contains code for an example of the paper:
                            Calls code available at https://github.com/ap-browning/internalisation (run from the root directory).
                            The file InternalisationPredictive.jl then produces more results.
 
+Within each folder there is a produce_results.m file that can be run to reproduce the figures in the paper.
+
 Some files to facilitate the visualisation of the results have been obtained from freely available sources:
 
 Aslak Grinsted (2022). Subaxis - Subplot (https://www.mathworks.com/matlabcentral/fileexchange/3696-subaxis-subplot), 
