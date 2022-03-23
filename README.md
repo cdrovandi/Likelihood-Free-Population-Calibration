@@ -1,6 +1,6 @@
 # Likelihood-Free-Population-Calibration
 
-Matlab and Julia code to support the article Population Calibration using Likelihood-Free Bayesian Inference.
+Matlab and Julia code to support the article Population Calibration using Likelihood-Free Bayesian Inference (https://arxiv.org/pdf/2202.01962.pdf).
 
 Each folder contains code for an example of the paper:
 
